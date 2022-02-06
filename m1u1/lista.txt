@@ -4,3 +4,6 @@ sillas
 galletitas
 manzanas
 uvas
+cocacola
+parlantes
+televi
